@@ -1,1 +1,1 @@
-The description and the image files are only shown to the player.
+The description and Jacob.jpeg are the only files that are shown to the player.
