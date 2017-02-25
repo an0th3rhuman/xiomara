@@ -1,6 +1,8 @@
 ### Web Challenges 
 
-####lol - Web 50 
+####lol 
+points:50
+Warning: You will be trolled
 
 Running on 139.59.61.220:23456
 
