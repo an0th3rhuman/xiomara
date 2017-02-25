@@ -6,7 +6,9 @@
 
 Password - The future bot
 
-#### Misc - Misc 50
+#### techquiz - Misc 50
+
+Solve this tech quiz.  
 
 #### Tracking - Misc 20
 
