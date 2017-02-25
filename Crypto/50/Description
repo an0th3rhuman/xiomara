@@ -1,0 +1,13 @@
+ALPHAMETIC CIPHER
+
+Jacob Appelbaum has instructed me to test your mathematical skills, before you get started solving Crypto challenges.
+
+So, here you go:
+
+*Each letter should represent a different digit, such that the sum becomes valid.
+*The leading digit of a multi-digit number must not be zero.
+
+alpha + metic = cipher
+
+This is your flag:
+xiomara{192678927345721_13846}
