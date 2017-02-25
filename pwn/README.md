@@ -7,13 +7,16 @@ I have an acess to an old server , can u get me a privileged access  to it !!!
  
 ### Secure pyshell
 
+Port : 22345
+
 Points : 100
 
  A friend of mine is die hard fan of python . 
  He created a python interpreter of his own 
  And claims to be very secure , prove him he is wrong.
  
- ### Xor Tool
+### Xor Tool
+Port : 32345
  
 points : 200 
 
@@ -21,7 +24,7 @@ I have recently heard about Single character XOR cipher  so i decided to impleme
 go and checkout my Xor Tool 
 
 ### MINT 
-
+Port : 42345
 points : 200 
 
 bored of gedit ???
