@@ -8,5 +8,5 @@ Password - The future bot
 
 #### Misc - Misc 50
 
-#### Tracking - Misc 50
+#### Tracking - Misc 20
 
