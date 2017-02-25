@@ -1,8 +1,13 @@
 DEAL?
 
-Hello, I'm Xiom! My friend has created an authentication system and told me that if I get authenticated, I will get a secret message worth a lot.
+Hello, I'm Xiom! My friend has created an authentication system and told me that if I get authenticated,
+I will get a secret message worth a lot.
 
-There are 3 stages of authetication in his system and each stage demands a not previously used last name and a hashword. He has told me that he generates his hashword by hashing his full name. It seems that my cryptic friend has three different names with the same first name and unfortunately I never knew his first name :P . To get the message, one needs to bypass all the three stages of authentication. After a long time, me requesting him for a hint, he gave me the credentials for bypassing the first stage:
+There are 3 stages of authetication in his system and each stage demands a not previously used last name and a hashword.
+He has told me that he generates his hashword by hashing his full name.
+It seems that my cryptic friend has three different names with the same first name and unfortunately I never knew his first name :P .
+To get the message, one needs to bypass all the three stages of authentication.
+After a long time, me requesting him for a hint, he gave me the credentials for bypassing the first stage:
 
 Last name: Snow
 Hashword: f0dd6739b32e0e3baaaef42fd4761bd51bf81fe4
