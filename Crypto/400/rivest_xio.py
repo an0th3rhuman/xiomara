@@ -7,18 +7,17 @@ def bs(word, sum_chunk):
 
 flag = "xiomara{Xiomara_is_fun_indeed!_With_<3_Ronald_Rivest}\n"
 
-print "\nWelcome to Rivomara Encryption System\n"
-print "\nPress 1 to explore my system and 2 to submit your flag:\n"
-
+print("\nWelcome to Rivomara Encryption System\n")
+print("\nPress 1 to explore my system and 2 to submit your flag:\n")
 try:
-    option = raw_input("-->  ")
+    option = input("-->  ")
 except:
     exit("\n")
 
 if option == "1":
     while True:
         try:
-            msg = raw_input("\nEnter your message:\n")
+            msg = input("\nEnter your message:\n")
         except:
             exit("\n")
 
@@ -50,25 +49,25 @@ if option == "1":
         for i in range(1):
             c6 = c6 + bs(s6[i], sum[i + 31])
 
-        print "\nRivomara encrypted text:\n"
-        print c1
-        print c2
-        print c3
-        print c4
-        print c5
-        print c6
+        print("\nRivomara encrypted text:\n")
+        print(c1)
+        print(c2)
+        print(c3)
+        print(c4)
+        print(c5)
+        print(c6)
 
 elif option == "2":
     try:
-        hashed = raw_input("\nYour flag:\n")
+        hashed = input("\nYour flag:\n")
     except:
         exit("\n")
     if hashed == "96b8fe0349d4e7cec7be0148f5abaea0":
-        print "\nCongrats!"
-        print flag
+        print("\nCongrats!")
+        print(flag)
     else:
-        print "\nSorry hacker, wrong flag!\nGive it a shot once more\nI'm sure you can get it\n"
+        print("\nSorry hacker, wrong flag!\nGive it a shot once more\nI'm sure you can get it\n")
 
 else:
-    print "\nExiting due to invalid response!\n"
+    print("\nExiting due to invalid response!\n")
     exit()
